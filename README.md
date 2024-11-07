@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Bryan Alberto Lemus Meza!
 
-Welcome to my GitHub profile! I'm a third-semester Computer Science and Technology student at Tecnológico de Monterrey, passionate about software development, programming, and technology-driven solutions.
+Welcome to my GitHub profile! I'm a third-semester Computer Science and Technology student at Tecnológico de Monterrey, passionate about software development, programming and technology-driven solutions.
 
 ---
 
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a third-semester Computer Science and Technolo
 ---
 
 ### 💼 Projects
-- **Customer Service System Redesign** (2020-2023): Redesigned a customer service system to streamline processes using SQL, PHP, and Bootstrap.
+- **Customer Service System Redesign** (2020-2023): Redesigned a customer service system to streamline processes using SQL, PHP and Bootstrap.
 - **Streaming Service** (June 2023): Developed a model for a streaming platform in C++.
 - **Messaging Application** (October 2022): Created a messaging application using Kotlin and Firebase for data storage.
 
