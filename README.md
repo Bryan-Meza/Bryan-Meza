@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Bryan Alberto Lemus Meza
+# Hi! 👋 I'm Bryan Alberto Lemus Meza
 
-🎓 **Computer Science Student | IoT Enthusiast | Problem Solver**
+🎓 **Computer Science Student**
 
 Welcome to my GitHub profile! I'm currently pursuing my Bachelor's in Computer Science at Tecnológico de Monterrey (Class of 2027). With a passion for developing innovative solutions and a solid foundation in programming.
 
@@ -40,11 +40,15 @@ Welcome to my GitHub profile! I'm currently pursuing my Bachelor's in Computer S
 
 ## 🌟 My Stats
 ![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryan-Meza&show_icons=true&theme=radical)
+
+---
+
+## 🌟 My Top Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-Meza&layout=compact&theme=radical)
 
 ---
 
-## 🌟 Soft Skills
+## ⚙️ Soft Skills
 - Problem-solving mindset
 - Teamwork and leadership abilities
 - Strong communication skills
