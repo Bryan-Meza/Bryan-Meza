@@ -19,6 +19,14 @@ I'm a Computer Science student at **Tecnológico de Monterrey** (B.S., Aug 2023 
 - 🧑‍💻 **IT Coordinator** at SEITC, the Computer Science student society
 - 🌎 Spanish (native) · English (B2)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bryan-Meza/Bryan-Meza/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bryan-Meza/Bryan-Meza/output/pacman-contribution-graph.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/Bryan-Meza/Bryan-Meza/output/pacman-contribution-graph.svg" alt="Pac-Man eating my contribution graph" />
+  </picture>
+</div>
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="" width="28" height="28" /> Experience
@@ -112,25 +120,10 @@ Gamified employee training platform for **OXXO**.
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="" width="28" height="28" /> GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
-    <img width="100%" src="profile-3d-contrib/profile-season-animate.svg" alt="3D contribution calendar" />
-  </picture>
-</div>
-
-<div align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bryan-Meza&theme=tokyonight" alt="GitHub stats" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bryan-Meza&theme=tokyonight" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=Bryan-Meza&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bryan-Meza/Bryan-Meza/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bryan-Meza/Bryan-Meza/output/pacman-contribution-graph.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/Bryan-Meza/Bryan-Meza/output/pacman-contribution-graph.svg" alt="Pac-Man eating my contribution graph" />
-  </picture>
 </div>
 
 ---
