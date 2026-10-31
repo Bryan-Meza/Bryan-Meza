@@ -23,30 +23,30 @@
   <circle cx="46" cy="20" r="6.5" fill="#FEBC2E"/>
   <circle cx="68" cy="20" r="6.5" fill="#28C840"/>
   <text x="500.0" y="25" text-anchor="middle" class="title">bryan@github: ~</text>
-  <clipPath id="c1"><rect x="204.8" y="60" width="0" height="28"><animate attributeName="width" values="0.0;0.0;10.8;21.6;32.4;43.2;54.0;84.8" keyTimes="0.0000;0.0827;0.0916;0.1005;0.1094;0.1183;0.1272;0.1361" calcMode="discrete" dur="7.86s" repeatCount="indefinite"/></rect></clipPath>
-  <g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0.0000;0.0382;0.9364" calcMode="discrete" dur="7.86s" repeatCount="indefinite"/>
+  <clipPath id="c1"><rect x="204.8" y="60" width="0" height="28"><animate attributeName="width" values="0.0;0.0;10.8;21.6;32.4;43.2;54.0;84.8" keyTimes="0.0000;0.0513;0.0569;0.0624;0.0679;0.0735;0.0790;0.0845" calcMode="discrete" dur="12.66s" repeatCount="indefinite"/></rect></clipPath>
+  <g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0.0000;0.0237;0.9605" calcMode="discrete" dur="12.66s" repeatCount="indefinite"/>
     <text x="32" y="80" class="t"><tspan class="user">bryan@github</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$</tspan></text>
     <text x="204.8" y="80" class="t cmd" clip-path="url(#c1)">whoami</text>
   </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0.0000;0.0382;0.1552" calcMode="discrete" dur="7.86s" repeatCount="indefinite"/>
-    <rect x="204.8" y="65" width="10.8" height="19" class="cur"><animate attributeName="x" values="204.8;204.8;215.6;226.4;237.2;248.0;258.8;269.6" keyTimes="0.0000;0.0827;0.0916;0.1005;0.1094;0.1183;0.1272;0.1361" calcMode="discrete" dur="7.86s" repeatCount="indefinite"/></rect>
+  <g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0.0000;0.0237;0.0964" calcMode="discrete" dur="12.66s" repeatCount="indefinite"/>
+    <rect x="204.8" y="65" width="10.8" height="19" class="cur"><animate attributeName="x" values="204.8;204.8;215.6;226.4;237.2;248.0;258.8;269.6" keyTimes="0.0000;0.0513;0.0569;0.0624;0.0679;0.0735;0.0790;0.0845" calcMode="discrete" dur="12.66s" repeatCount="indefinite"/></rect>
   </g>
-  <text x="32" y="142" class="name" opacity="0">Bryan<animate attributeName="opacity" values="0;1;0" keyTimes="0.0000;0.1679;0.9364" calcMode="discrete" dur="7.86s" repeatCount="indefinite"/></text>
-  <clipPath id="c3"><rect x="204.8" y="166" width="0" height="28"><animate attributeName="width" values="0.0;0.0;10.8;21.6;32.4;43.2;54.0;64.8;75.6;86.4;97.2;108.0;118.8;149.6" keyTimes="0.0000;0.2570;0.2659;0.2748;0.2837;0.2926;0.3015;0.3104;0.3193;0.3282;0.3372;0.3461;0.3550;0.3639" calcMode="discrete" dur="7.86s" repeatCount="indefinite"/></rect></clipPath>
-  <g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0.0000;0.2125;0.9364" calcMode="discrete" dur="7.86s" repeatCount="indefinite"/>
+  <text x="32" y="142" class="name" opacity="0">Bryan<animate attributeName="opacity" values="0;1;0" keyTimes="0.0000;0.1043;0.9605" calcMode="discrete" dur="12.66s" repeatCount="indefinite"/></text>
+  <clipPath id="c3"><rect x="204.8" y="166" width="0" height="28"><animate attributeName="width" values="0.0;0.0;10.8;21.6;32.4;43.2;54.0;64.8;75.6;86.4;97.2;108.0;118.8;149.6" keyTimes="0.0000;0.1596;0.1651;0.1706;0.1761;0.1817;0.1872;0.1927;0.1983;0.2038;0.2093;0.2148;0.2204;0.2259" calcMode="discrete" dur="12.66s" repeatCount="indefinite"/></rect></clipPath>
+  <g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0.0000;0.1319;0.9605" calcMode="discrete" dur="12.66s" repeatCount="indefinite"/>
     <text x="32" y="186" class="t"><tspan class="user">bryan@github</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$</tspan></text>
     <text x="204.8" y="186" class="t cmd" clip-path="url(#c3)">cat role.txt</text>
   </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0.0000;0.2125;0.3830" calcMode="discrete" dur="7.86s" repeatCount="indefinite"/>
-    <rect x="204.8" y="171" width="10.8" height="19" class="cur"><animate attributeName="x" values="204.8;204.8;215.6;226.4;237.2;248.0;258.8;269.6;280.4;291.2;302.0;312.8;323.6;334.4" keyTimes="0.0000;0.2570;0.2659;0.2748;0.2837;0.2926;0.3015;0.3104;0.3193;0.3282;0.3372;0.3461;0.3550;0.3639" calcMode="discrete" dur="7.86s" repeatCount="indefinite"/></rect>
+  <g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0.0000;0.1319;0.2378" calcMode="discrete" dur="12.66s" repeatCount="indefinite"/>
+    <rect x="204.8" y="171" width="10.8" height="19" class="cur"><animate attributeName="x" values="204.8;204.8;215.6;226.4;237.2;248.0;258.8;269.6;280.4;291.2;302.0;312.8;323.6;334.4" keyTimes="0.0000;0.1596;0.1651;0.1706;0.1761;0.1817;0.1872;0.1927;0.1983;0.2038;0.2093;0.2148;0.2204;0.2259" calcMode="discrete" dur="12.66s" repeatCount="indefinite"/></rect>
   </g>
-  <text x="32" y="218" class="role" opacity="0">Software Engineer<animate attributeName="opacity" values="0;1;0" keyTimes="0.0000;0.3957;0.9364" calcMode="discrete" dur="7.86s" repeatCount="indefinite"/></text>
-  <clipPath id="c5"><rect x="204.8" y="232" width="0" height="28"><animate attributeName="width" values="0.0;0.0;10.8;21.6;32.4;43.2;74.0" keyTimes="0.0000;0.8473;0.8562;0.8651;0.8740;0.8830;0.8919" calcMode="discrete" dur="7.86s" repeatCount="indefinite"/></rect></clipPath>
-  <g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0.0000;0.4402;0.9364" calcMode="discrete" dur="7.86s" repeatCount="indefinite"/>
+  <text x="32" y="218" class="role" opacity="0">Software Engineer<animate attributeName="opacity" values="0;1;0" keyTimes="0.0000;0.2457;0.9605" calcMode="discrete" dur="12.66s" repeatCount="indefinite"/></text>
+  <clipPath id="c5"><rect x="204.8" y="232" width="0" height="28"><animate attributeName="width" values="0.0;0.0;10.8;21.6;32.4;43.2;74.0" keyTimes="0.0000;0.9052;0.9107;0.9163;0.9218;0.9273;0.9329" calcMode="discrete" dur="12.66s" repeatCount="indefinite"/></rect></clipPath>
+  <g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0.0000;0.2733;0.9605" calcMode="discrete" dur="12.66s" repeatCount="indefinite"/>
     <text x="32" y="252" class="t"><tspan class="user">bryan@github</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$</tspan></text>
     <text x="204.8" y="252" class="t cmd" clip-path="url(#c5)">clear</text>
   </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0.0000;0.4402;0.9364" calcMode="discrete" dur="7.86s" repeatCount="indefinite"/>
-    <rect x="204.8" y="237" width="10.8" height="19" class="cur blink"><animate attributeName="x" values="204.8;204.8;215.6;226.4;237.2;248.0;258.8" keyTimes="0.0000;0.8473;0.8562;0.8651;0.8740;0.8830;0.8919" calcMode="discrete" dur="7.86s" repeatCount="indefinite"/></rect>
+  <g opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0.0000;0.2733;0.9605" calcMode="discrete" dur="12.66s" repeatCount="indefinite"/>
+    <rect x="204.8" y="237" width="10.8" height="19" class="cur blink"><animate attributeName="x" values="204.8;204.8;215.6;226.4;237.2;248.0;258.8" keyTimes="0.0000;0.9052;0.9107;0.9163;0.9218;0.9273;0.9329" calcMode="discrete" dur="12.66s" repeatCount="indefinite"/></rect>
   </g>
 </svg>
