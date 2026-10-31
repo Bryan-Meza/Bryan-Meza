@@ -1,4 +1,4 @@
-<img width="100%" src="assets/header.svg" alt="Hi, I'm Bryan. Software Engineer" />
+<img width="100%" src="assets/header.svg?v=hold20" alt="Hi, I'm Bryan. Software Engineer" />
 
 <div align="center">
 
