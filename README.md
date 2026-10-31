@@ -22,7 +22,6 @@ I'm a Computer Science student at **Tecnológico de Monterrey** (B.S., Aug 2023 
 <div align="center">
 
 #### My contributions
-<sub>Pac-Man eating my GitHub contributions from the past year</sub>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bryan-Meza/Bryan-Meza/output/pacman-contribution-graph-dark.svg" />
