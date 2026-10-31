@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=200&section=header&text=Hi,%20I'm%20Bryan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer&descSize=18&descAlignY=58&animation=twinkling" alt="Hi, I'm Bryan" />
+<img width="100%" src="assets/header.svg" alt="Hi, I'm Bryan. Software Engineer" />
 
 <div align="center">
 
@@ -20,6 +20,10 @@ I'm a Computer Science student at **Tecnológico de Monterrey** (B.S., Aug 2023 
 - 🌎 Spanish (native) · English (B2)
 
 <div align="center">
+
+#### My contributions
+<sub>Pac-Man eating my GitHub contributions from the past year</sub>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bryan-Meza/Bryan-Meza/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bryan-Meza/Bryan-Meza/output/pacman-contribution-graph.svg" />
